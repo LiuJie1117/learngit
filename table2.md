@@ -1,20 +1,33 @@
-<!DOCTYPE html>
 <html>
 <head>
-<style> 
-div
-{
-width:100px;
-height:75px;
-background-color:yellow;
-border:1px solid black;
-}
+<style type="text/css">
+table, td, th
+  {
+  border:1px solid green !important;
+  }
 
+th
+  {
+  background-color:green !important;
+  color:white !important;
+  }
 </style>
 </head>
+
 <body>
-
-<div>你好。这是一个 div 元素。</div>
-
+<table>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+</tr>
+<tr>
+<td>Bill</td>
+<td>Gates</td>
+</tr>
+<tr>
+<td>Steven</td>
+<td>Jobs</td>
+</tr>
+</table>
 </body>
 </html>
