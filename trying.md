@@ -50,10 +50,10 @@
 --------------------- 
 <table>
   <tr>
-     <td style="background-color:#DBDBDB">sample</td> 
-     <td style="background-color:#DBDBDB">patient</td> 
-     <td style="background-color:#DBDBDB">lesion</td>
-     <td style="background-color:#DBDBDB">time</td>
+     <th style="background-color:#DBDBDB">sample</th> 
+     <th style="background-color:#DBDBDB">patient</th> 
+     <th style="background-color:#DBDBDB">lesion</th>
+     <th style="background-color:#DBDBDB">time</th>
   </tr>
   <tr>
         <td bgcolor=#FFFFFF>311252-S</td>
